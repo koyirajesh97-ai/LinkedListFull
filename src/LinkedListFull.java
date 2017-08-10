@@ -1,4 +1,5 @@
 class LNode {
+// updated
     int data;
     LNode next;
     LNode(int d){ data = d; next = null; }
