@@ -9,6 +9,7 @@ public class LinkedListFull {
     LNode head = null;
 
     void insertAtStart(int val){
+    // todo: optimize
         LNode n = new LNode(val);
         n.next = head;
         head = n;
