@@ -52,6 +52,7 @@ public class LinkedListFull {
     }
 
     void reverse(){
+    // works fine for now
         LNode prev = null, curr = head, next = null;
         while(curr != null){
             next = curr.next;
