@@ -71,6 +71,7 @@ public class LinkedListFull {
             t = t.next;
         }
         System.out.println("null");
+        // minor fix
     }
 
     public static void main(String[] args){
