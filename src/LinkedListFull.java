@@ -88,3 +88,4 @@ public class LinkedListFull {
         System.out.println("length: " + list.length());
     }
 }
+// updated
