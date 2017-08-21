@@ -26,6 +26,7 @@ public class LinkedListFull {
     }
 
     void insertAtPos(int val, int pos){
+    // tested manually
         LNode n = new LNode(val);
         if(pos == 0){ n.next = head; head = n; return; }
         LNode t = head;
