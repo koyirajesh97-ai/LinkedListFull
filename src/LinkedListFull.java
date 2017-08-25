@@ -1,4 +1,5 @@
 class LNode {
+// minor changes
 // updated
     int data;
     LNode next;
