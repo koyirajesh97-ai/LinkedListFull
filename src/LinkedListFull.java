@@ -89,6 +89,7 @@ public class LinkedListFull {
         list.reverse();
         list.print();
         System.out.println("length: " + list.length());
+        // can be optimized later
     }
 }
 // updated
