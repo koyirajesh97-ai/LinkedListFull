@@ -74,6 +74,7 @@ public class LinkedListFull {
             t = t.next;
         }
         System.out.println("null");
+        // checked, looks ok
         // minor fix
     }
 
