@@ -68,6 +68,7 @@ public class LinkedListFull {
     }
 
     void print(){
+    // ref: geeksforgeeks
         LNode t = head;
         while(t != null){
             System.out.print(t.data + "->");
